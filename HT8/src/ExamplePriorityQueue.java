@@ -1,3 +1,5 @@
+package src;
+
 public class ExamplePriorityQueue {
 
     public static void main(String[] args) {

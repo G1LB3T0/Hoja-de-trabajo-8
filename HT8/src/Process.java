@@ -1,3 +1,5 @@
+package src;
+
 public class Process {
     private String processName;
     private String userName;
